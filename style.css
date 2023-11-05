@@ -23,6 +23,8 @@ body{
     font-weight: 600;
     font-size: 2.25rem;
     padding-top: 35px;
+    text-shadow: 2px 2px black;
+
 }
 .navA {
     background-color: transparent; 
@@ -48,6 +50,38 @@ body{
     background-color: #d3d3d1;
 }
 
+.imgs2{
+    margin-left: 1000px;
+    height: 400px;
+    width: 400px;
+}
 
+.btn-group{
+    margin-left: 500px;
+}
 
+.section2{
+    height: 850px;
+    background-image: url(Images/Mainbg.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+.button{
+    text-decoration: none;
+    color: white;
+}
+
+.sec2{
+    padding: 50px;
+    height: 300px;
+    width: 400px;
+    color: white;
+}
+
+.img3{
+    height: 200px;
+    width: 200px;
+    margin-top: 80px;
+    padding-left: 50px;
+}
 
